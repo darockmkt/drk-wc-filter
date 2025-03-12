@@ -1,0 +1,9 @@
+#drk-wc-filter-sortable li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    cursor: move;
+}
+.ui-state-highlight {
+    height: 20px;
+}
